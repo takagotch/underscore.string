@@ -2,7 +2,7 @@
 ---
 https://github.com/epeli/underscore.string
 
-```
+```sh
 npm install underscore.string
 meteor add underscorestring:underscore.string
 
@@ -206,3 +206,4 @@ s("foo").tap(function(x){
   return value + "bar";
 }).value();
 ```
+
